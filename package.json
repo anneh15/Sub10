@@ -1,0 +1,16 @@
+{
+    "name": "supermercado",
+    "version": "1.0.0",
+    "description": "Aplicación de supermercado en Node.js",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Estebano30",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
+  
